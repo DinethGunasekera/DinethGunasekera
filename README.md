@@ -1,10 +1,10 @@
 ### Hi there, I'm Dineth. 👋
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/d_sudasinghe)](https://twitter.com/d_sudasinghe)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dananjaya-sudasinghe-a29545183/)](https://www.linkedin.com/in/dananjaya-sudasinghe-a29545183/)
-[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/11349010/dananjaya-sudasinghe?tab=profile)](https://stackoverflow.com/users/11349010/dananjaya-sudasinghe?tab=profile)
 
-![dsudasinghe's github stats](https://github-readme-stats.vercel.app/api?username=dsudasinghe&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsudasinghe&layout=compact)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/dineth-sahashra-236732216//)](https://https://www.linkedin.com/in/dineth-sahashra-236732216/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/16363123/dineth-sahashra)](https://stackoverflow.com/users/16363123/dineth-sahashra)
+
+![DinethGunasekera's github stats](https://github-readme-stats.vercel.app/api?username=DinethGunasekera&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DinethGunasekera&layout=compact)
 
 ### Skills : <br/>
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
